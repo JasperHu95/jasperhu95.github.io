@@ -9,7 +9,7 @@ main:
     url: /year-archive/
 
   - title: "LiteratureLog"
-    url: /literatureLog/ 
+    url: /literaturelog/ 
 
   - title: "Curriculum Vitae"
     url: /cv/ 
