@@ -223,6 +223,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  literatureLog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -257,7 +260,7 @@ defaults:
   # _LiteratureLog
   - scope:
       path: ""
-      type: LiteratureLog
+      type: literatureLog
     values:
       layout: single
       author_profile: true
