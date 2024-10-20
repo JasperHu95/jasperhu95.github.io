@@ -17,17 +17,17 @@ I hope to connect with more people through this webpage, and I will also share m
 
 I plan to create three sections: 
 
-1. Curriculum Vitae
+1. **Curriculum Vitae**
 
    In this section, I will present my personal CV.
 
-2. Blog Posts
+2. **Blog Posts**
 
    In this section, I will update some personal blog posts.
 
    **NB** *I will likely write blog posts in Chinese, and additionally, I will provide an English document translated by AI.*
 
-3. LiteratureLog
+3. **LiteratureLog**
 
    In this section, I will place introductions to some interesting literature that I have read.
 
