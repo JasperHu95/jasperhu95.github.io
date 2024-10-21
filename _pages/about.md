@@ -37,7 +37,7 @@ You can click the following link to directly access this project:
 
 
 
-You can click on the navigation bar above to view my personal CV, which seems to be a must-have item for every personal homepage. : )
+You can click on the navigation bar above to view my personal CV, which seems to be a must-have item for every personal site. : )
 
 
 
