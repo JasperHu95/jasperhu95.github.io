@@ -8,8 +8,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "LiteratureLog"
-    url: /literaturelog/ 
-
   - title: "Curriculum Vitae"
     url: /cv/ 
