@@ -23,6 +23,10 @@ I have created a repository on Github to share interesting literature that I hav
 
 
 
+Some mathematical formulas may not display properly on Github, but they appear correctly in Typora. You can achieve a perfect reading experience by downloading the file.
+
+
+
 You can click the following link to directly access this project:
 
 [JasperHu95/LiteratureLog: Personal LiteratureLog](https://github.com/JasperHu95/LiteratureLog)
