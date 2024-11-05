@@ -18,9 +18,11 @@ Education
 
 * GPA: 3.69/4.0
 * Thesis: “The Impact of Internal Pay Disparity on Corporate Performance”, supervised by Prof Renhui FU
-  * To examine the relationship between internal pay disparity and corporate performance, and investigate employee productivity and long-term investment as mediating and moderating factors
-  * Employ a mixed-method approach to combine empirical analysis with case studies. Collect and analyze panel data of listed companies on China’s stock exchanges from 2007 to 2019. Data sourced from authoritative databases, including CSMAR and WIND.
-  * Key variables include internal pay disparity, measured as the ratio of executive to average employee compensation; corporate performance, assessed through total asset return rate; employee productivity, indicated by revenue per employee; and long-term investment, represented by the R&D expenditure ratio to sales revenue.
+  * To examine the relationship between internal pay disparity and corporate performance, and investigate regional economic activity, public attention, and Confucian cultural intensity as moderating factors
+  
+    • Employ a mixed-method approach to combine empirical analysis with case studies. Collect and analyze panel data of listed companies on China’s stock exchanges from 2007 to 2019. Data sourced from authoritative databases, including CSMAR and WIND.
+  
+    • Key variables include internal pay disparity, measured as the ratio of executive to average employee compensation; corporate performance, assessed through ROA; regional economic activity, measured by the intensity of nighttime lights in the region; public attention, measured by the number of Stock Comments on the largest Chinese stock BBS; and Confucian cultural intensity, measured by the number of Confucius temples within a 200-kilometer radius of the company's registered location.
 * Main courses: Environmental Movement and Corporate Strategy (A+), Financial Accounting (A), Managerial Economics (A-), Macroeconomics and Public Policy (A-), Organizational Behavior (A-), International Business Law (A-), Data Model and Decision Making (A-), Business Ethics and Corporate Social Responsibility (A-), Corporate Finance (B+)
 
 **Exchange, The Chinese University of Hong Kong, Hong Kong SAR China, Sept. 2024 – Dec. 2024**
