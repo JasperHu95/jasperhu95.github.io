@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student at Antai College of Economics and Management, Shanghai Jiao Tong University. Before joining Shanghai Jiao Tong University, I worked in the auditing industry for over four years. Before resigning, I held the position of Project Manager. 
+I am currently an Audit Specialist in the Internal Audit Department at J&T Express Group. I hold a Master of Business Administration from Antai College of Economics and Management, Shanghai Jiao Tong University. Prior to pursuing my master’s degree, I accumulated over four years of experience in the auditing industry, most recently serving as a Project Manager.
 
+My research interests, since undergraduate studies, have centered on financial reporting quality, financial fraud detection, and audit quality. I also maintain a strong interest in corporate governance and fairness-related issues. 
 
+My master’s thesis focused on the relationship between internal pay disparity and firm performance. This research was motivated by observations of modern corporate compensation structure designs and the central government’s policies aimed at regulating executive pay in state-owned enterprises (SOEs). From an economic perspective, a higher pay ceiling helps attract talented individuals and motivates employees to strive for promotion and salary increases. This explains why, over the past two decades, top graduates from business schools and other disciplines have been drawn into high-paying industries such as investment banking and hedge funds. However, excessive pay gaps may also trigger public concerns over income inequality, particularly regarding high executive compensation in SOEs—a key factor likely prompting government-imposed pay restrictions. Salary serves as a price signal reflecting labor market supply and demand. The question remains whether administrative interventions in pay structures might undermine incentive mechanisms and, consequently, affect corporate performance.
 
-Since my undergraduate studies, my research interests have consistently focused on the quality of financial reporting, the identification of financial fraud, and audit quality. Additionally, I have a keen interest in research related to corporate governance and fairness. I plan to channel my passion into research in the field of accounting, which will be my future pursuit.
+Moving forward, I intend to dedicate my efforts to academic research in the field of accounting.
 
 Introduction
 ======
@@ -32,8 +34,6 @@ You can click the following link to directly access this project:
 [JasperHu95/LiteratureLog: Personal LiteratureLog](https://github.com/JasperHu95/LiteratureLog)
 
 
-
-**NB** *This is a weekly updated project, and I usually update it on Sundays.*
 
 
 
@@ -56,8 +56,6 @@ You can click on the navigation bar above to view my personal blog. I plan to sh
 However, this personal homepage has just been set up, and I may need some time to figure out how to use it. 
 
 
-
-*Written on October 21, 2024*
 
 
 
