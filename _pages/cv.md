@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 # Profile
-======
 
 Internal Auditing Specialist with a Master of Business Administration (GPA: 3.69/4.0) from Shanghai Jiao Tong University, China (2025 QS ranking #45), and exchange student of the International Asian Studies Programme at The Chinese University of Hong Kong (2025 QS ranking #36). Strong empirical research and data analysis skills using Stata, Python, and R with over four years of audit experience across state-owned enterprises, listed companies, and private firms. Successfully uncovered misappropriation of 40 million RMB and detected high fraud risks. Demonstrated expertise in fraud detection, having uncovered 40 million RMB in misappropriated funds and identified critical fraud risks. Research interests in financial reporting quality, income equity, and corporate performance. 
 
 # Education
-======
 
 **M.B.A, Shanghai Jiao Tong University, China, Sept. 2023 – 2025**
 
@@ -37,8 +35,7 @@ Internal Auditing Specialist with a Master of Business Administration (GPA: 3.69
 
 * **Main courses:** Accounting, Microeconomics, Financial Management, Investment, Internal Control, Financial Cost Management, Management Accounting, Applied Statistics
 
-Research Experience
-======
+# Research Experience
 
 **Graduate researcher, supervised by Prof Renhui FU, May. 2024 – June. 2025**
 
@@ -64,8 +61,7 @@ Research Experience
 * Project overview: Collaborated on developing RMB exchange rate index formula, automated data collection system, and integrated visualization platform. Led technical development and data visualization components while Finance Department students designed the index methodology.
 * Key contributions: 1. Developed Python web scraping program to automatically collect real-time exchange rate data from financial websites; 2. Implemented database architecture for data storage and created automated calculation system to process data using the designed index formula.; 3. Built interactive data visualizations using ECharts and collaborated with web design team to integrate dashboards into project website.
 
-Work Experience
-======
+# Work Experience
 
 **Internal Auditing Specialist, J&T Global Express Limited, Shanghai, China May 2025 - Present**
 
@@ -90,8 +86,7 @@ Work Experience
 
 - Audit Risk Index Visualization Software, No. 2017SR453544, China, 2017*（Software Copyright）*
 
-Skills
-======
+# Skills
 
 * **English:** IELTS 6.5 PTE 67
 * **Qualification:** Accounting Professional Qualification of China (2023)
