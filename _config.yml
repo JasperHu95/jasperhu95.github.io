@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiaqi(Jasper) Hu / Personal Site"
+title                    : "Jiaqi (Jasper) Hu / Personal Site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jiaqi(Jasper) Hu"
+  name             : "Jiaqi (Jasper) Hu"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring to become a researcher in accounting."
   location         : "Shanghai"
