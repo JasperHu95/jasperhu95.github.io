@@ -14,19 +14,19 @@ redirect_from:
 **Shanghai Jiao Tong University**, Shanghai, China
 : *Sep. 2023 – July 2025*
 
-* Master of Business Administration | GPA: 3.69/4.00
+* Master of Business Administration
 * Thesis: "The Impact of Internal Pay Disparity on Corporate Performance"
 * Award: First-class Master's Academic Scholarship 2023; First-class Master's Academic Scholarship 2024
 
 **The Chinese University of Hong Kong**, Hong Kong SAR, China
 : *Sep. 2024 – Dec. 2024*
 
-* Exchange Student | GPA: 3.57/4.00
+* Exchange Student
 
 **Zhejiang University City College (now Hangzhou City University)**, Hangzhou, China
 : *Sep. 2014 – Jul. 2018*
 
-* Bachelor of Financial Management | GPA: 3.25/4.00
+* Bachelor of Financial Management
 * Thesis: "Research on Identification Model of Financial Fraud of Listed Company Based on Data Mining Technology" (Outstanding Thesis, 5%)
 
 # Work Experience
